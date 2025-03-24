@@ -10,5 +10,5 @@ CREATE TABLE Account (
 
 -- Insert sample data
 INSERT INTO Account (email, password, fullname, role) VALUES
-('admin@gmail.com', '1', 'Administrator', 'ADMIN'),
-('john@gmail.com', '1', 'Adam Smith', 'USER');
+('admin@gmail.com', '6B86B273FF34FCE19D6B804EFF5A3F5747ADA4EAA22F1D49C01E52DDB7875B4B', 'Administrator', 'ADMIN'),
+('john@gmail.com', '6B86B273FF34FCE19D6B804EFF5A3F5747ADA4EAA22F1D49C01E52DDB7875B4B', 'Adam Smith', 'USER');
